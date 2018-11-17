@@ -1,0 +1,84 @@
+a {
+	text-decoration:none;
+  color:black;
+  font-weight:bold;
+}
+a:hover{
+  text-decoration:underline;
+}
+h2 {
+color:#666;
+}
+.date{
+  font-weight:normal;
+  font-style:italic; 
+}
+.menu{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:#CDC8B1;
+}
+.menu-list{
+  float:left;
+}
+body{
+    margin:1;
+    font-family:'微软雅黑','Times New Roman', Times, serif;
+    }
+[type=submit]{
+width:5%;height:6%;word-break:break-word;
+padding:10px;
+border-width :1px;
+    border-bottom-style:solid;
+        border-right-style:solid;
+            border-left-style:solid;
+            margin:2px;
+}
+.b_content{
+  font-family:'楷体';
+}
+.tag{
+  font-family:'楷体';
+}
+input[type=text]{
+  padding:10px;
+  border-width :1px;
+      border-bottom-style:solid;
+          border-right-style:solid;
+              border-left-style:solid;
+              margin:2px;
+}
+input[type=password]{
+  padding:10px;
+  border-width :1px;
+      border-bottom-style:solid;
+          border-right-style:solid;
+              border-left-style:solid;
+              margin:2px;
+}
+
+.entry-title{
+  font-size:xx-large;
+  font-family:'宋体';
+  margin-bottom:0.25em;
+}
+.breblog{
+  margin:25;
+}
+.page{
+  margin:5;
+}
+.entry-title:hover{
+text-decoration:underline;
+}
+.menu-item{
+  display:block;
+  color:white;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration:none;
+}
+
+                           
