@@ -1,0 +1,35 @@
+---------------------------------------------------------------
+[ 2018-11-11T21:09:42+08:00 ] 172.105.238.87 GET 178.62.72.144:8888/
+[运行时间：0.021217s] [吞吐率：47.13req/s] [内存消耗：732.41kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'user-agent' => 'HTTP Banner Detection (https://security.ipip.net)',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002657s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003759s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001354s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001255s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000489s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000529s ]

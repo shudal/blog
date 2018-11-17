@@ -1,0 +1,7 @@
+[ 2018-11-03T10:16:01+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ 2018-11-03T10:18:00+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ 2018-11-03T10:18:00+08:00 ][ error ] [0]Fatal error: Call to a member function getName() on string[/home/perci/tp/tp5/thinkphp/library/think/Console.php:491]
+[ 2018-11-03T10:18:38+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ 2018-11-03T10:59:46+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ 2018-11-03T15:55:39+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ 2018-11-03T16:30:42+08:00 ][ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php

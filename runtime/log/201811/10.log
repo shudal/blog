@@ -1,0 +1,70 @@
+---------------------------------------------------------------
+[ 2018-11-10T04:29:10+08:00 ] 209.17.96.194 GET jford.xyz/
+[运行时间：0.016301s] [吞吐率：61.35req/s] [内存消耗：732.29kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'jford.xyz',
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001372s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003122s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001108s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000834s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000486s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000416s ]
+---------------------------------------------------------------
+[ 2018-11-10T15:52:26+08:00 ] 122.228.80.254 GET 178.62.72.144:8888/
+[运行时间：0.017863s] [吞吐率：55.98req/s] [内存消耗：732.77kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'User-Agent:Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.0.3705',
+  'accept' => '*/*',
+  'host' => '178.62.72.144:8888',
+  'connection' => 'Keep-Alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002614s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003236s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001172s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000798s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000437s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000539s ]

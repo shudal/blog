@@ -1,0 +1,138 @@
+---------------------------------------------------------------
+[ 2018-11-09T06:27:46+08:00 ] 209.17.96.42 GET elsatolongleyjason.com/
+[运行时间：0.016020s] [吞吐率：62.42req/s] [内存消耗：732.33kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'elsatolongleyjason.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001941s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003171s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001111s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000413s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000355s ]
+---------------------------------------------------------------
+[ 2018-11-09T11:42:08+08:00 ] 209.17.97.74 GET mail.the-ark.church/
+[运行时间：0.018238s] [吞吐率：54.83req/s] [内存消耗：732.34kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mail.the-ark.church',
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002660s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003306s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001108s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000955s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000450s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000362s ]
+---------------------------------------------------------------
+[ 2018-11-09T13:52:13+08:00 ] 139.162.83.10 GET 178.62.72.144:8888/
+[运行时间：0.018244s] [吞吐率：54.81req/s] [内存消耗：732.45kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'user-agent' => 'Mozilla/5.0',
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002319s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003276s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001093s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000800s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000451s ]
+---------------------------------------------------------------
+[ 2018-11-09T20:23:41+08:00 ] 196.52.43.52 GET /
+[运行时间：0.016891s] [吞吐率：59.20req/s] [内存消耗：732.21kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0(WindowsNT6.1;rv:31.0)Gecko/20100101Firefox/31.0',
+  'accept' => '*/*',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002295s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003046s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.001135s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000772s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000408s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000489s ]

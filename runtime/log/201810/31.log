@@ -1,0 +1,4064 @@
+---------------------------------------------------------------
+[ 2018-10-31T00:21:16+08:00 ] 196.52.43.80 GET elsatolongleyjason.com/
+[运行时间：0.004695s] [吞吐率：213.00req/s] [内存消耗：360.91kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'elsatolongleyjason.com',
+  'user-agent' => 'Mozilla/5.0 (compatible; nsrbot/1.0; &#43;http://netsystemsresearch.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T02:58:13+08:00 ] 209.17.96.194 GET mail.the-ark.church/
+[运行时间：0.004919s] [吞吐率：203.29req/s] [内存消耗：360.95kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'mail.the-ark.church',
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T08:05:13+08:00 ] 209.17.96.194 GET jford.xyz/
+[运行时间：0.004799s] [吞吐率：208.37req/s] [内存消耗：360.91kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'jford.xyz',
+  'user-agent' => 'Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T16:14:55+08:00 ] 139.162.83.10 GET 178.62.72.144:8888/
+[运行时间：0.005389s] [吞吐率：185.56req/s] [内存消耗：361.07kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'user-agent' => 'Mozilla/5.0',
+  'accept-encoding' => 'gzip',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T19:03:20+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.004572s] [吞吐率：218.72req/s] [内存消耗：362.46kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'purpose' => 'prefetch',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T19:03:23+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.011724s] [吞吐率：85.30req/s] [内存消耗：707.83kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002407s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.003122s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.001047s ]
+---------------------------------------------------------------
+[ 2018-10-31T19:03:25+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.002666s] [吞吐率：375.09req/s] [内存消耗：362.88kb] [文件加载：60]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/index/index.html [ array (
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T19:09:21+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.003735s] [吞吐率：267.75req/s] [内存消耗：366.25kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/blog/login.html [ array (
+  0 => 'tai',
+) ]
+---------------------------------------------------------------
+[ 2018-10-31T19:09:33+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/blog/login
+[运行时间：0.008265s] [吞吐率：120.99req/s] [内存消耗：705.17kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'shudal',
+  'password' => 'Ma1822391_',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001577s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.002131s ]
+[ sql ] [ SQL ] SELECT `password`,`pri` FROM `users` WHERE  `username` = 'shudal' [ RunTime:0.000751s ]
+---------------------------------------------------------------
+[ 2018-10-31T19:09:33+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.005944s] [吞吐率：168.24req/s] [内存消耗：715.03kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001135s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000616s ]
+---------------------------------------------------------------
+[ 2018-10-31T19:32:53+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.014396s] [吞吐率：69.46req/s] [内存消耗：726.38kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001908s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.002906s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.001080s ]
+---------------------------------------------------------------
+[ 2018-10-31T19:56:34+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.008865s] [吞吐率：112.80req/s] [内存消耗：556.61kb] [文件加载：72]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:app\common\model\Base->filed[/home/perci/tp/tp5/thinkphp/library/think/db/Query.php:180]
+---------------------------------------------------------------
+[ 2018-10-31T19:58:57+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.004186s] [吞吐率：238.88req/s] [内存消耗：555.44kb] [文件加载：72]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:app\common\model\Base->filed[/home/perci/tp/tp5/thinkphp/library/think/db/Query.php:180]
+---------------------------------------------------------------
+[ 2018-10-31T20:01:38+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.007217s] [吞吐率：138.56req/s] [内存消耗：555.44kb] [文件加载：72]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:app\common\model\Base->filed[/home/perci/tp/tp5/thinkphp/library/think/db/Query.php:180]
+---------------------------------------------------------------
+[ 2018-10-31T20:01:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.005777s] [吞吐率：173.10req/s] [内存消耗：555.44kb] [文件加载：72]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/login',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:app\common\model\Base->filed[/home/perci/tp/tp5/thinkphp/library/think/db/Query.php:180]
+---------------------------------------------------------------
+[ 2018-10-31T20:02:00+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.011725s] [吞吐率：85.29req/s] [内存消耗：688.13kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002567s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.003442s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000860s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:14]
+---------------------------------------------------------------
+[ 2018-10-31T20:03:00+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006590s] [吞吐率：151.74req/s] [内存消耗：688.52kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000777s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001251s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000469s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:14]
+---------------------------------------------------------------
+[ 2018-10-31T20:04:20+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.003549s] [吞吐率：281.78req/s] [内存消耗：344.84kb] [文件加载：58]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '$ntheme' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)[/home/perci/tp/tp5/application/index/controller/Index.php:8]
+---------------------------------------------------------------
+[ 2018-10-31T20:05:02+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.004472s] [吞吐率：223.61req/s] [内存消耗：344.84kb] [文件加载：58]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '$nsrc' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)[/home/perci/tp/tp5/application/index/controller/Index.php:8]
+---------------------------------------------------------------
+[ 2018-10-31T20:05:37+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007531s] [吞吐率：132.79req/s] [内存消耗：687.19kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000828s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001748s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000611s ]
+[ error ] [0]模板文件不存在:default/index/index.html[/home/perci/tp/tp5/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+[ 2018-10-31T20:07:20+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006080s] [吞吐率：164.48req/s] [内存消耗：686.09kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000665s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001137s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000461s ]
+[ error ] [0]模板文件不存在:default/index/index.html[/home/perci/tp/tp5/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+[ 2018-10-31T20:08:44+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006154s] [吞吐率：162.49req/s] [内存消耗：686.09kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001150s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000472s ]
+[ error ] [0]模板文件不存在:default/index/index.html[/home/perci/tp/tp5/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+[ 2018-10-31T20:11:44+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007694s] [吞吐率：129.97req/s] [内存消耗：689.28kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000883s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001181s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000496s ]
+[ error ] [0]模板文件不存在:/default/index/index.html[/home/perci/tp/tp5/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+[ 2018-10-31T20:13:34+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008329s] [吞吐率：120.06req/s] [内存消耗：708.72kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000823s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001346s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000513s ]
+---------------------------------------------------------------
+[ 2018-10-31T20:13:36+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.005845s] [吞吐率：171.08req/s] [内存消耗：702.80kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000683s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001138s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000440s ]
+---------------------------------------------------------------
+[ 2018-10-31T20:13:49+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.005817s] [吞吐率：171.91req/s] [内存消耗：702.48kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000652s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001146s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000489s ]
+---------------------------------------------------------------
+[ 2018-10-31T20:14:03+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006252s] [吞吐率：159.95req/s] [内存消耗：708.02kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000634s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001128s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000460s ]
+---------------------------------------------------------------
+[ 2018-10-31T20:15:00+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006543s] [吞吐率：152.84req/s] [内存消耗：708.02kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000631s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001146s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000451s ]
+---------------------------------------------------------------
+[ 2018-10-31T20:16:16+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007063s] [吞吐率：141.58req/s] [内存消耗：688.73kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000707s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001177s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000484s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:17]
+---------------------------------------------------------------
+[ 2018-10-31T20:19:38+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008584s] [吞吐率：116.50req/s] [内存消耗：688.76kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001097s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.002080s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000623s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:18]
+---------------------------------------------------------------
+[ 2018-10-31T20:21:26+08:00 ] 160.2.182.31 GET /
+[运行时间：0.006496s] [吞吐率：153.94req/s] [内存消耗：684.19kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000728s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001044s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000498s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:18]
+---------------------------------------------------------------
+[ 2018-10-31T20:24:24+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007420s] [吞吐率：134.77req/s] [内存消耗：688.71kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000780s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001248s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000479s ]
+[ error ] [8]未定义变量: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:24:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007601s] [吞吐率：131.56req/s] [内存消耗：688.73kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000848s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001106s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000915s ]
+[ error ] [8]未定义数组索引: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:25:11+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006557s] [吞吐率：152.51req/s] [内存消耗：688.73kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000743s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001323s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000461s ]
+[ error ] [8]未定义数组索引: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:28:07+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008371s] [吞吐率：119.46req/s] [内存消耗：687.63kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001193s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001874s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000596s ]
+[ error ] [8]未定义数组索引: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:57:01+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.013337s] [吞吐率：74.98req/s] [内存消耗：688.75kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001951s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.002988s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000832s ]
+[ error ] [8]未定义变量: _GLOBALS[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:57:12+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006245s] [吞吐率：160.12req/s] [内存消耗：688.73kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000808s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001099s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000453s ]
+[ error ] [8]未定义数组索引: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T20:58:45+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007945s] [吞吐率：125.86req/s] [内存消耗：709.42kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000842s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001602s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000529s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:01:34+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007589s] [吞吐率：131.77req/s] [内存消耗：688.73kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000874s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001161s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000535s ]
+[ error ] [8]未定义数组索引: nsrc[/home/perci/tp/tp5/application/index/controller/Index.php:16]
+---------------------------------------------------------------
+[ 2018-10-31T21:04:02+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.007351s] [吞吐率：136.04req/s] [内存消耗：704.20kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000893s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001148s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000448s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:06:08+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.003920s] [吞吐率：255.10req/s] [内存消耗：350.18kb] [文件加载：61]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined function app\index\controller\getsrc()[/home/perci/tp/tp5/application/index/controller/Index.php:17]
+---------------------------------------------------------------
+[ 2018-10-31T21:10:17+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.004059s] [吞吐率：246.38req/s] [内存消耗：388.47kb] [文件加载：59]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [64]Constant expression contains invalid operations[/home/perci/tp/tp5/application/index/controller/Index.php:9]
+---------------------------------------------------------------
+[ 2018-10-31T21:12:25+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.003205s] [吞吐率：312.03req/s] [内存消耗：344.93kb] [文件加载：58]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]语法解析错误: syntax error, unexpected '$ntheme' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST)[/home/perci/tp/tp5/application/index/controller/Index.php:10]
+---------------------------------------------------------------
+[ 2018-10-31T21:19:20+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.004065s] [吞吐率：246.00req/s] [内存消耗：388.47kb] [文件加载：59]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [64]Constant expression contains invalid operations[/home/perci/tp/tp5/application/index/controller/Index.php:9]
+---------------------------------------------------------------
+[ 2018-10-31T21:21:01+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.003603s] [吞吐率：277.55req/s] [内存消耗：350.18kb] [文件加载：61]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ error ] [0]致命错误: Call to undefined function app\index\controller\getsrc()[/home/perci/tp/tp5/application/index/controller/Index.php:11]
+---------------------------------------------------------------
+[ 2018-10-31T21:21:10+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.009456s] [吞吐率：105.75req/s] [内存消耗：708.80kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001114s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.002296s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000778s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:21:13+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.005851s] [吞吐率：170.91req/s] [内存消耗：702.88kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000668s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001030s ]
+[ sql ] [ SQL ] SELECT `name`,`type`,`src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000432s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:26:03+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.006218s] [吞吐率：160.82req/s] [内存消耗：702.31kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000690s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001017s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000433s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:28:51+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.007111s] [吞吐率：140.63req/s] [内存消耗：556.98kb] [文件加载：72]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ error ] [0]method not exist:app\common\model\Base->filed[/home/perci/tp/tp5/thinkphp/library/think/db/Query.php:180]
+---------------------------------------------------------------
+[ 2018-10-31T21:31:09+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.013580s] [吞吐率：73.64req/s] [内存消耗：706.95kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001411s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.002195s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000842s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000901s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000476s ]
+[ error ] [0]模板文件不存在:..application/index/view/default/blog/index.html[/home/perci/tp/tp5/thinkphp/library/think/view/driver/Think.php:86]
+---------------------------------------------------------------
+[ 2018-10-31T21:32:06+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.011132s] [吞吐率：89.83req/s] [内存消耗：730.67kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000955s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001583s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000630s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000445s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:41+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.011934s] [吞吐率：83.79req/s] [内存消耗：721.51kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001212s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001542s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000673s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000751s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000386s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:43+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.005525s] [吞吐率：181.00req/s] [内存消耗：701.16kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000688s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001081s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000431s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:47+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.009909s] [吞吐率：100.92req/s] [内存消耗：720.24kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001130s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001840s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000714s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000400s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=pro
+[运行时间：0.007866s] [吞吐率：127.13req/s] [内存消耗：722.51kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'pro',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000685s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001201s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 1 ORDER BY `id` DESC [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000408s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:53+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.006979s] [吞吐率：143.29req/s] [内存消耗：720.27kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=pro',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000677s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001086s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000491s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000838s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000402s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:39:57+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=play
+[运行时间：0.008974s] [吞吐率：111.44req/s] [内存消耗：730.83kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000622s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%play%' ORDER BY `id` DESC [ RunTime:0.000585s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000860s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000543s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:01+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=first
+[运行时间：0.011511s] [吞吐率：86.87req/s] [内存消耗：721.55kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'first',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000870s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001461s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%first%' ORDER BY `id` DESC [ RunTime:0.000695s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001170s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000615s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:05+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.007228s] [吞吐率：138.35req/s] [内存消耗：720.27kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=first',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000600s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001094s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000744s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:07+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.010222s] [吞吐率：97.83req/s] [内存消耗：754.71kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000617s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001068s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000642s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.000804s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:15+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/comments/create
+[运行时间：0.006826s] [吞吐率：146.50req/s] [内存消耗：600.31kb] [文件加载：73]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '78',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/blog/6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'blog_id' => '6',
+  'user_name' => 'shudal',
+  'comments' => '//评论内容',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/comments/create.html [ array (
+  0 => 'tai',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000926s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.001145s ]
+[ sql ] [ SQL ] INSERT INTO `comments` (`content` , `blog_id` , `user_name` , `publish_time`) VALUES ('//评论内容' , 6 , 'shudal' , 1540993215) [ RunTime:0.000638s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:17+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.007053s] [吞吐率：141.79req/s] [内存消耗：720.27kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/comments/create',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000654s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001101s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000355s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:19+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.009548s] [吞吐率：104.73req/s] [内存消耗：743.80kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000690s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001054s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000620s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000515s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000707s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000361s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:26+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.008529s] [吞吐率：117.25req/s] [内存消耗：734.63kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/blog/6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000634s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001097s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000583s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000363s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:33+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search?cont=%E4%B8%80
+[运行时间：0.007690s] [吞吐率：130.04req/s] [内存消耗：721.59kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'cont' => '一',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000675s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001138s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%一%' ORDER BY `id` DESC [ RunTime:0.000591s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000764s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000372s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:36+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=pro
+[运行时间：0.007556s] [吞吐率：132.34req/s] [内存消耗：722.52kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search?cont=%E4%B8%80',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'pro',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000630s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001195s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 1 ORDER BY `id` DESC [ RunTime:0.000544s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000764s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:40+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.007211s] [吞吐率：138.68req/s] [内存消耗：724.34kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=pro',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000643s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001063s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000565s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000729s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000376s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:44+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search?cont=p
+[运行时间：0.007766s] [吞吐率：128.77req/s] [内存消耗：720.42kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'cont' => 'p',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001142s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%p%' ORDER BY `id` DESC [ RunTime:0.000517s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000763s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000388s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:50+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=thinkphp
+[运行时间：0.008120s] [吞吐率：123.16req/s] [内存消耗：720.40kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search?cont=p',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'thinkphp',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000660s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001134s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%thinkphp%' ORDER BY `id` DESC [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000720s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000413s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.006149s] [吞吐率：162.63req/s] [内存消耗：706.25kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=thinkphp',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000750s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000965s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000437s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:40:56+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.002652s] [吞吐率：377.08req/s] [内存消耗：368.00kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-31T21:40:56+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.008359s] [吞吐率：119.63req/s] [内存消耗：737.91kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000720s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001086s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000789s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000382s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:00+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.005658s] [吞吐率：176.74req/s] [内存消耗：700.88kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000649s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001006s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000405s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:02+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/regis
+[运行时间：0.006099s] [吞吐率：163.96req/s] [内存消耗：707.59kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000657s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000981s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000440s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:15+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/blog/regis
+[运行时间：0.007986s] [吞吐率：125.22req/s] [内存消耗：716.30kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '33',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'javaaf',
+  'password' => 'adfadgds',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+  0 => 'tai',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000605s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.001062s ]
+[ sql ] [ SQL ] INSERT INTO `users` (`username` , `pri` , `password`) VALUES ('javaaf' , 'visitor' , 'de278efa8905ef18990f9c1a5d267e24') [ RunTime:0.000583s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000420s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:19+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.005408s] [吞吐率：184.91req/s] [内存消耗：701.16kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001008s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000442s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:24+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.006002s] [吞吐率：166.61req/s] [内存消耗：700.45kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000754s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001228s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000515s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:41:26+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.002444s] [吞吐率：409.16req/s] [内存消耗：368.00kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-31T21:41:26+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.007433s] [吞吐率：134.54req/s] [内存消耗：727.65kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000674s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001185s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000539s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000716s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000364s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:42:41+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009059s] [吞吐率：110.39req/s] [内存消耗：738.12kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000780s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001142s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000517s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000721s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000378s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:48:31+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.009150s] [吞吐率：109.29req/s] [内存消耗：730.52kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001131s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001216s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000589s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000708s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000386s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:53:01+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.012090s] [吞吐率：82.71req/s] [内存消耗：701.16kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002143s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.002834s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000797s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:53:27+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008033s] [吞吐率：124.49req/s] [内存消耗：707.09kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000930s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001579s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000541s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:50+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008692s] [吞吐率：115.05req/s] [内存消耗：707.04kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001120s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001551s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000551s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.008624s] [吞吐率：115.95req/s] [内存消耗：730.50kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000792s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001265s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000749s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000726s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000355s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:53+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=pro
+[运行时间：0.007882s] [吞吐率：126.87req/s] [内存消耗：723.60kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'pro',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000632s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001101s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 1 ORDER BY `id` DESC [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000396s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:55+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.008386s] [吞吐率：119.25req/s] [内存消耗：734.65kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=pro',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001211s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000712s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000849s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000402s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:57+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.006716s] [吞吐率：148.90req/s] [内存消耗：706.25kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000705s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001026s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000507s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:55:58+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.007793s] [吞吐率：128.32req/s] [内存消耗：721.36kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000681s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001134s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000573s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000737s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000357s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:01+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.016312s] [吞吐率：61.30req/s] [内存消耗：755.96kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000839s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001588s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000993s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.001166s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000748s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001187s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000666s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:07+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=play
+[运行时间：0.008132s] [吞吐率：122.97req/s] [内存消耗：730.83kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000693s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001044s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%play%' ORDER BY `id` DESC [ RunTime:0.000512s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000687s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000408s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:10+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.010219s] [吞吐率：97.86req/s] [内存消耗：743.80kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000656s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001242s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000632s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.000853s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000665s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000341s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:12+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.006974s] [吞吐率：143.39req/s] [内存消耗：725.42kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/blog/6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000677s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001085s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000705s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000357s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:18+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search?cont=%E4%B8%80
+[运行时间：0.007131s] [吞吐率：140.23req/s] [内存消耗：720.50kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'cont' => '一',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000612s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001081s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%一%' ORDER BY `id` DESC [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000700s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000370s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:20+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.005222s] [吞吐率：191.50req/s] [内存消耗：700.89kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search?cont=%E4%B8%80',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000973s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000466s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:22+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/regis
+[运行时间：0.006308s] [吞吐率：158.53req/s] [内存消耗：707.59kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000578s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001045s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000495s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:26+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/blog/regis
+[运行时间：0.008317s] [吞吐率：120.24req/s] [内存消耗：716.30kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '34',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'adfafa',
+  'password' => 'dsafdsgds',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+  0 => 'tai',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000682s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.001100s ]
+[ sql ] [ SQL ] INSERT INTO `users` (`username` , `pri` , `password`) VALUES ('adfafa' , 'visitor' , 'd2d9e6d65b07a062e99b6c71450f98ed') [ RunTime:0.000693s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000730s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000371s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:30+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.007710s] [吞吐率：129.70req/s] [内存消耗：724.34kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000672s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001110s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000531s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000730s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000493s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:32+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.005507s] [吞吐率：181.59req/s] [内存消耗：700.47kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000638s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001089s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000500s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:33+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.002815s] [吞吐率：355.24req/s] [内存消耗：368.00kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-31T21:56:34+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.008451s] [吞吐率：118.33req/s] [内存消耗：737.91kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000657s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001137s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000551s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000745s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000449s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:41+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin?cont=%E4%B8%80
+[运行时间：0.007849s] [吞吐率：127.40req/s] [内存消耗：723.80kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'cont' => '一',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000665s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001031s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%一%' ORDER BY `id` DESC [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000759s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000373s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:44+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/update?id=6
+[运行时间：0.008486s] [吞吐率：117.84req/s] [内存消耗：731.38kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/admin?cont=%E4%B8%80',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/update.html [ array (
+  0 => 'blog',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001138s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000559s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000717s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000377s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:49+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/blog/save
+[运行时间：0.007469s] [吞吐率：133.89req/s] [内存消耗：601.46kb] [文件加载：73]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '191',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/update?id=6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'title' => '玩耍类第一篇标题',
+  'id' => '6',
+  'tags' => 'play,first',
+  'content' => '玩耍类第一篇内容啊',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] /home/perci/tp/tp5/application/index/view/blog/update.html [ array (
+  0 => 'tai',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000653s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001175s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000606s ]
+[ sql ] [ SQL ] UPDATE `blog`  SET `content` = '玩耍类第一篇内容啊' , `update_time` = 1540994209  WHERE  `id` = 6 [ RunTime:0.000684s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:51+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.006921s] [吞吐率：144.49req/s] [内存消耗：720.27kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/save',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000626s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001060s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000517s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000392s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:53+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.009702s] [吞吐率：103.07req/s] [内存消耗：742.71kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000869s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001093s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000545s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.000747s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000719s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000398s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:56:56+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.005790s] [吞吐率：172.71req/s] [内存消耗：700.45kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/blog/6',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000721s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000999s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000514s ]
+---------------------------------------------------------------
+[ 2018-10-31T21:57:08+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.002706s] [吞吐率：369.54req/s] [内存消耗：368.00kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-31T21:57:08+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.007121s] [吞吐率：140.43req/s] [内存消耗：726.55kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000670s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001046s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000520s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000734s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000382s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:03:31+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.011301s] [吞吐率：88.49req/s] [内存消耗：695.98kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001107s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001223s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000512s ]
+[ error ] [10501]SQLSTATE[42S22]: Column not found: 1054 Unknown column 'src' in 'field list'[/home/perci/tp/tp5/thinkphp/library/think/db/Connection.php:687]
+---------------------------------------------------------------
+[ 2018-10-31T22:06:40+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.010027s] [吞吐率：99.73req/s] [内存消耗：707.74kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000829s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001059s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000545s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000791s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000473s ]
+[ error ] [8]未定义变量: conti[/home/perci/tp/tp5/application/index/controller/Blog.php:133]
+---------------------------------------------------------------
+[ 2018-10-31T22:06:54+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.011129s] [吞吐率：89.85req/s] [内存消耗：732.71kb] [文件加载：84]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000630s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001084s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000542s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000719s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000402s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000381s ]
+[ error ] [8]未定义变量: t[/home/perci/tp/tp5/runtime/temp/05e29f9e124d321be6dcc31b36428142.php:72]
+---------------------------------------------------------------
+[ 2018-10-31T22:08:13+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.010769s] [吞吐率：92.86req/s] [内存消耗：740.46kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000937s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001399s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000710s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000495s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000345s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:08:25+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009426s] [吞吐率：106.09req/s] [内存消耗：740.46kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000712s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001127s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000558s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000382s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000358s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:10:22+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009271s] [吞吐率：107.86req/s] [内存消耗：740.46kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000621s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001064s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000575s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000383s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000363s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:11:58+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009002s] [吞吐率：111.09req/s] [内存消耗：740.96kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000627s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001095s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000774s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000403s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000339s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:13:09+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009437s] [吞吐率：105.96req/s] [内存消耗：740.96kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000649s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001095s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000564s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000370s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000396s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:15:35+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.010332s] [吞吐率：96.79req/s] [内存消耗：740.96kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000788s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001187s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000505s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000765s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000426s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000368s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:17:58+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.009262s] [吞吐率：107.97req/s] [内存消耗：730.01kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000635s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001164s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000566s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000786s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000555s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000339s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:46+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/
+[运行时间：0.008300s] [吞吐率：120.48req/s] [内存消耗：706.71kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/admin',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/index/index.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000959s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001705s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000583s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:48+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=play
+[运行时间：0.007805s] [吞吐率：128.12req/s] [内存消耗：730.50kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000648s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001046s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 0 ORDER BY `id` DESC [ RunTime:0.000615s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000727s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000369s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:52+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/blog/6
+[运行时间：0.010233s] [吞吐率：97.72req/s] [内存消耗：755.96kb] [文件加载：79]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => 'blog/<id>',
+  'route' => 'index/blog/read',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+  ),
+  'var' => 
+  array (
+    'id' => '6',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'id' => '6',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/read.html [ array (
+  0 => 'blog',
+  1 => 'disu',
+  2 => 'comments',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000671s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001029s ]
+[ sql ] [ SQL ] SELECT * FROM `blog` WHERE  `id` = 6 LIMIT 1 [ RunTime:0.000576s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `comments` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT `content`,`user_name`,`publish_time` FROM `comments` WHERE  `blog_id` = 6 ORDER BY `id` [ RunTime:0.000541s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000780s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000361s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:56+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=first
+[运行时间：0.008697s] [吞吐率：114.98req/s] [内存消耗：730.83kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/index?class=play',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'first',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000727s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001131s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%first%' ORDER BY `id` DESC [ RunTime:0.000543s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000752s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000390s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:58+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/index?class=pro
+[运行时间：0.007331s] [吞吐率：136.40req/s] [内存消耗：723.60kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=first',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'class' => 'pro',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/index.html [ array (
+  0 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000700s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001103s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `category_id` = 1 ORDER BY `id` DESC [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000739s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000387s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:25:58+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.011141s] [吞吐率：89.76req/s] [内存消耗：734.65kb] [文件加载：78]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/tags?tag=first',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000758s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001463s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000728s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001069s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000543s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:03+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search?cont=%E4%B8%80
+[运行时间：0.007570s] [吞吐率：132.10req/s] [内存消耗：721.59kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'cont' => '一',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000653s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001107s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%一%' ORDER BY `id` DESC [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000734s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000391s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:05+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/tags?tag=play
+[运行时间：0.007259s] [吞吐率：137.76req/s] [内存消耗：721.57kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search?cont=%E4%B8%80',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'tag' => 'play',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/tags.html [ array (
+  0 => 'blogs',
+  1 => 'tag',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000656s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001064s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `name` LIKE '%play%' ORDER BY `id` DESC [ RunTime:0.000533s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000718s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000363s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:10+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/search
+[运行时间：0.007204s] [吞吐率：138.81req/s] [内存消耗：724.36kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search?cont=%E4%B8%80',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/search.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000685s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001064s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000525s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000724s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000368s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:13+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.006982s] [吞吐率：143.22req/s] [内存消耗：706.25kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/search',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000617s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001048s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000423s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:14+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/regis
+[运行时间：0.006409s] [吞吐率：156.03req/s] [内存消耗：707.59kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000667s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.001040s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000586s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:21+08:00 ] 171.82.191.219 POST 178.62.72.144:8888/index/blog/regis
+[运行时间：0.008855s] [吞吐率：112.93req/s] [内存消耗：716.30kb] [文件加载：76]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '35',
+  'cache-control' => 'max-age=0',
+  'origin' => 'http://178.62.72.144:8888',
+  'upgrade-insecure-requests' => '1',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'sfdhgfdh',
+  'password' => 'sfgsdgsd',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/regis.html [ array (
+  0 => 'tai',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000764s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `users` [ RunTime:0.000961s ]
+[ sql ] [ SQL ] INSERT INTO `users` (`username` , `pri` , `password`) VALUES ('sfdhgfdh' , 'visitor' , '830583683f40fd38db67560f0821d067') [ RunTime:0.000965s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000925s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000573s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:24+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/about
+[运行时间：0.005701s] [吞吐率：175.41req/s] [内存消耗：700.88kb] [文件加载：75]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/regis',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/about.html [ array (
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000603s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000952s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000441s ]
+---------------------------------------------------------------
+[ 2018-10-31T22:26:28+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/login
+[运行时间：0.002551s] [吞吐率：391.99req/s] [内存消耗：368.00kb] [文件加载：62]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+[ 2018-10-31T22:26:28+08:00 ] 171.82.191.219 GET 178.62.72.144:8888/index/blog/admin
+[运行时间：0.007596s] [吞吐率：131.65req/s] [内存消耗：728.71kb] [文件加载：77]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'host' => '178.62.72.144:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://178.62.72.144:8888/index/blog/about',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=m7odljcu0i6r3j42i48fj9aone',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/default/blog/admin.html [ array (
+  0 => 'blogs',
+  1 => 'svalue',
+  2 => 'themes',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000623s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.001073s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`publish_time` FROM `blog` WHERE  `content` LIKE '%%' ORDER BY `id` DESC [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000711s ]
+[ sql ] [ SQL ] SELECT `name`,`src`,`tai` FROM `base` WHERE  `type` = 'theme' [ RunTime:0.000407s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000393s ]
