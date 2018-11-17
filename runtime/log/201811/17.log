@@ -28120,3 +28120,44 @@ body{
 [ sql ] [ SQL ] SELECT `id`,`name`,`title`,`content`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.000476s ]
 [ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000538s ]
 [ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000273s ]
+---------------------------------------------------------------
+[ 2018-11-17T18:36:29+08:00 ] 27.18.166.236 GET 132.232.57.130:8888/
+[运行时间：0.012454s] [吞吐率：80.30req/s] [内存消耗：748.74kb] [文件加载：83]
+[ info ] [ LANG ] /home/perci/tp/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'rule' => '',
+  'route' => 'index',
+  'option' => 
+  array (
+    'merge_rule_regex' => false,
+    'complete_match' => true,
+  ),
+  'var' => 
+  array (
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => '132.232.57.130:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://132.232.57.130:8888/blog/index?category_id=1',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9,en;q=0.8',
+  'cookie' => 'PHPSESSID=f12dbb490e47e1f2c712b1b1cbd9962f',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] ../application/index/view/the1/index/index.html [ array (
+  0 => 'ka',
+  1 => 'extendTest',
+  2 => 'blogs',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000447s ] mysql:host=127.0.0.1;dbname=demo;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `blog` [ RunTime:0.000723s ]
+[ sql ] [ SQL ] SELECT `id`,`name`,`title`,`content`,`publish_time` FROM `blog` WHERE  `publish_time` BETWEEN 1541001600 AND 1543593600  AND `tai` = 'display' ORDER BY `id` DESC [ RunTime:0.000401s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `base` [ RunTime:0.000577s ]
+[ sql ] [ SQL ] SELECT `src` FROM `base` WHERE  `tai` = 'now' [ RunTime:0.000268s ]
