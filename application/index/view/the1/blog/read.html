@@ -1,0 +1,46 @@
+{include file="../application/index/view/the1/base.html"/}
+{include file="the1/static/css/blog_read.css"}
+<div class='page'>
+{notempty name="blog"}
+<div class='read_title'>{$blog.title}</div>
+<a class='date'>{$blog.publish_time}</a><br>
+{foreach $blog.name as $n}
+<a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a>
+    &nbsp; 
+{/foreach}<br>
+{notempty name='sum'}
+游览：{$sum}
+{/notempty}
+<br>分类:<a href="{:url('index/blog/index',['category_id'=>$blog.category_id])}">{$blog.category}</a>
+<div class='read_content'>{$rcontent|raw}</div>
+{/notempty}
+
+
+<br><br><br>
+{notempty name="comments"}
+  {foreach $comments as $comment}
+  {$comment.user_name}：<i>{$comment.publish_time}</i><br>
+    <i>{$comment.content}</i><br><br>
+
+    {/foreach}{else/}
+暂无评论
+{/notempty}
+
+<br><br>
+
+{notempty name="disu"}
+{$disu} :
+<form action="{:url('index/comments/create')}" method="post">
+  <input type="hidden" name="blog_id" value="{$blog.id}">
+  <input type="hidden" name="user_name" value="{$disu}"><br>
+    <textarea name='comments' cols="30" rows="10">//评论内容</textarea><br>
+    验证码:<br>
+    <div>{:captcha_img()}</div>
+  <input type="text" name="captcha"><br>
+
+  <input type="submit" value="提交评论"><br>
+</form>
+{else/}
+登陆后可评论
+{/notempty}
+</div>

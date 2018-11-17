@@ -1,0 +1,14 @@
+{include file="../application/index/view/default/base.html" /}
+含有标签 <b>{$tag}</b> 的文章:<br><br><br>
+{foreach $blogs as $blog}
+<b><a href = "{:url('index/blog/read',['id'=>$blog.id])}" class="ti">{$blog.title}</a></b><br>
+标签 :
+{foreach $blog.name as $n}
+<a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a> |
+{/foreach}
+
+<br>
+------<br>
+{$blog.publish_time}<br>
+<br><br><br>
+{/foreach}

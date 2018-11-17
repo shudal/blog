@@ -1,0 +1,51 @@
+{include file="../application/index/view/default/base.html" /}
+<br>
+<a href="{:url('index/blog/edit')}">新增文章</a><br>
+------编辑始----
+<form action="">
+搜索文章以编辑:<br>
+<input type="text" name="cont" value="{$svalue}"><br>
+<input type="submit" value="搜索">
+</form>
+
+<br>
+{notempty name="svalue"}
+<b>{$svalue}</b>的搜索结果:<br><br><br>
+{foreach $blogs as $blog}
+<b><a href = "{:url('index/blog/read',['id'=>$blog.id])}" class="ti">{$blog.title}</a></b><br>
+标签 :
+{foreach $blog.name as $n}
+<a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a> |
+{/foreach}
+
+<br>
+------<br>
+<a href="{:url('index/blog/update',['id'=>$blog.id])}">编辑</a>
+<a href="{:url('index/blog/delete',['id'=>$blog.id])}">删除</a>
+<br>{$blog.publish_time}<br>
+<br><br>
+{/foreach}
+{else/}
+{/notempty}
+------编辑终----<br><br>
+主题选项：<br><br>
+{notempty name='themes'}
+<br><br>更改主题：<br>
+<form action="{:url('index/base/update')}" method="post">
+
+{foreach $themes as $t}
+
+  <input name="theme" type="radio" value="{$t.src}">{$t.name}<br>
+  {/foreach}
+  <input type="submit" value="更改"><br>
+  </form>
+------------
+<br><br>删除主题：<br>
+<form action="{:url('index/base/delete')}" method="post">
+
+{foreach $themes as $t}
+  <input name="theme" type="radio" value="{$t.src}">{$t.name}<br>
+  {/foreach}
+  <input type="submit" value="删除"><br>
+  </form>
+  {/notempty}

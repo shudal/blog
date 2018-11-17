@@ -1,0 +1,257 @@
+{include file="../application/index/view/the1/base.html" /}
+<br>
+<a href="{:url('index/blog/edit')}">新增文章</a><br>
+------编辑始----
+<form action="">
+搜索文章以编辑:<br>
+<input type="text" name="cont" value="{$svalue}"><br>
+<input type="submit" value="搜索">
+</form>
+
+<br>
+{notempty name="svalue"}
+<b>{$svalue}</b>的搜索结果:<br><br><br>
+{foreach $blogs as $blog}
+<b><a href = "{:url('index/blog/read',['id'=>$blog.id])}" class="ti">{$blog.title}</a></b><br>
+标签 :
+{foreach $blog.name as $n}
+<a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a> |
+{/foreach}
+
+<br>
+------<br>
+<a href="{:url('index/blog/update',['id'=>$blog.id])}">编辑</a>
+<a href="{:url('index/blog/delete',['id'=>$blog.id])}">删除</a>
+<br>{$blog.publish_time}<br>
+<br><br>
+{/foreach}
+{else/}
+{/notempty}
+------编辑终----<br><br>
+主题选项：<br><br>
+安装主题：<br>
+要求：1）zip压缩包格式。2）内含二目录,static和主题文件夹名。3）详情参考本项目主题the1.zip
+<br>
+<form action="{:url('index/base/create')}" enctype="multipart/form-data"
+  method="post">
+  <input type="file" name="theme" /><br>
+  <input type="text" name="src" value="主题文件夹名"><br>
+  <input type="text" name="name" value="主题名称"><br>
+  <input type="submit" value="安装主题"><br></form>
+{notempty name='themes'}
+<br><br>更改主题：<br>
+<form action="{:url('index/base/update')}" method="post">
+
+{foreach $themes as $t}
+
+  <input name="theme" type="radio" value="{$t.src}">{$t.name}<br>
+  {/foreach}
+  <input type="submit" value="更改"><br>
+  </form>
+------------
+<br><br>删除主题：<br>
+<form action="{:url('index/base/delete')}" method="post">
+
+{foreach $themes as $t}
+  <input name="theme" type="radio" value="{$t.src}">{$t.name}<br>
+  {/foreach}
+  <input type="submit" value="删除"><br>
+  </form>
+  {/notempty}
+
+
+  <br><br><br>
+插件管理:<br>
+    安装:
+    <br>注：1）上传文件如Filter.php<br>
+<form action="{:url('index/addon/create')}" enctype="multipart/form-data"
+  method="post">
+  <input type="file" name="addon" /><br>
+  <input type="text" name="src" value="// 插件文件名"><br>
+  <input type="text" name="name" value="插件名称"><br>
+  选择钩子：<br>
+  <lable><input name='hook_name' type='radio' value='Filter'>评论过滤</lable> 
+  <lable><input name='hook_name' type='radio' value='Validator'>验证器</lable>
+  <lable><input name='hook_name' type='radio' value='Classfilter'>分类过滤</lable>
+  <lable><input name='hook_name' type='radio' value="Newpage">新增页面</lable>
+  <lable><input name='hook_name' type='radio' value='Css'>自定义Css</lable>
+  <lable><input name='hook_name' type='radio' value='Stat'>网页统计</lable>
+  <br>
+
+  <input type="submit" value='安装插件'><br></form>
+
+<ol>
+  <li>
+    评论处理插件：<br><br>
+
+    <br>已安装的评论处理插件:<br>
+{notempty name='FilterAddons'}
+{foreach $FilterAddons as $addon}
+<br>{$addon.behavior_name} 
+<form action="{:url('index/addon/update')}" method='post'>
+  <lable><input name='tai' type='radio' value='enable'>启用</lable> 
+  <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+  <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+  <input type='hidden' name='addon_id' value='{$addon.id}'>
+  <input type='submit' value='确认修改'><br>
+</form>当前状态为{$addon.tai}<br>
+{if $addon.tai=='enable'}
+新增关键词：<br>
+<form action="{:url('index/blog/admin')}" method='post'>
+  <input type='text' name='unkey'><br>
+  <input type='submit' value='提交'>
+  <input type='hidden' name='addonClass' value='Filter' >
+</form>
+  {notempty name='unkeys'}
+
+过滤关键词们: <br>
+
+<br>
+{foreach $unkeys as $cate}
+<br>{$cate.keyword} <a href="{:url('index/blog/admin',['addonClass'=>'Filter','id'=>$cate.id])}">删除</a>
+<br>
+{/foreach}
+{else/}
+暂无过滤关键词
+{/notempty}
+{/if}
+{/foreach}
+{else/}
+暂无
+{/notempty}
+</li>
+<li>验证器插件：
+  {notempty name='ValidatorAddons'}
+  {foreach $ValidatorAddons as $addon}
+  <br>{$addon.behavior_name} 
+<form action="{:url('index/addon/update')}" method='post'>
+  <lable><input name='tai' type='radio' value='enable'>启用</lable> 
+  <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+  <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+  <input type='hidden' name='addon_id' value='{$addon.id}'>
+  <input type='submit' value='确认修改'><br>
+</form>当前状态为{$addon.tai}<br>
+{/foreach}
+
+  {else/}
+  暂无
+  {/notempty}</li>
+<li>分类过滤插件：
+  {notempty name='ClassfilterAddons'}
+  {foreach $ClassfilterAddons as $addon}
+  <br>{$addon.behavior_name} 
+<form action="{:url('index/addon/update')}" method='post'>
+  <lable><input name='tai' type='radio' value='enable'>启用</lable> 
+  <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+  <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+  <input type='hidden' name='addon_id' value='{$addon.id}'>
+  <input type='submit' value='确认修改'><br>
+</form>当前状态为{$addon.tai}<br>
+
+{if $addon.tai=='enable'}
+{notempty name='cates'}
+
+分类们: <br>
+{foreach $cates as $cate}
+<br>{$cate.name} <form action="{:url('index/blog/admin')}" method="post">
+<lable><input name='tai' type='radio' value='display'>显示</lable> 
+  <lable><input name='tai' type='radio' value='hidden'>隐藏</lable>
+  <input type='hidden' name='id' value='{$cate.id}'>
+  <input type='hidden'  name='addonClass' value='Classfilter'>
+  <input type='submit' value='确认修改'><br></form>
+当前显示状态为{$cate.tai}<br>
+<br>
+{/foreach}
+{/notempty}
+{/if}
+{/foreach}
+  {else/}
+  暂无
+  {/notempty}
+</li>
+<li>页面管理插件：</li><br>
+{notempty name='newPageAddon'}
+
+  <form action="{:url('index/addon/update')}" method='post'>
+  <lable><input name='tai' type='radio' value='enable'>启用</lable> 
+  <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+  <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+  <input type='hidden' name='addon_id' value='{$newPageAddon.id}'>
+  <input type='submit' value='确认修改'><br>
+</form>当前状态为{$newPageAddon.tai}<br>
+{else/}
+暂无
+  {/notempty}
+{notempty name='newPages'}
+
+  新增页面：<br>
+  <form method="post"  action="{:url('index/blog/admin')}">
+  名稱：<h1><input type="text" name="title"></input></h1>
+  <input type="hidden" name="command" value="create_newPage"></input>
+  内容：<br><textarea  cols="25" rows="10"   name="content"></textarea>
+  <br><input type="submit" value="提交"></br>
+
+  </form>
+  已有页面：<br>
+  {notempty name='newPages'}
+  {foreach $newPages as $newPage}
+  
+  {$newPage.name} <a href="{:url('index/blog/admin',['command'=>'delete_newPage','id'=>$newPage.id])}">删除</a> <br>
+
+  {/foreach}
+  {else/}
+  暂无页面.
+  {/notempty}
+  {/notempty}
+
+  <li>自定义css样式</li>
+  {notempty name='cssAddon'}
+  <br> {$cssAddon.behavior_name} :<br>
+  <form action="{:url('index/addon/update')}" method='post'>
+    <lable><input name='tai' type='radio' value='enable'> 启用</lable>
+    <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+    <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+    <input type='hidden' name='addon_id' value='{$cssAddon.id}'>
+    <input type='submit' value='确认修改'><br>
+  </form>当前状态为{$cssAddon.tai}<br>
+  {if $cssAddon.tai=='enable'}
+  新增css样式表：<br>
+  <form action='{:url('index/blog/admin')}' method='post'>
+    <input type='hidden' name='command' value='newCss'>
+    页面名：如"blog/search"<br>
+    <input type='text' name='src'><br>
+    css:<br>
+    <textarea cols='25' rows='5' name='content'></textarea>
+      <br>
+      <input type='submit' value='新增'><br>
+    </form>
+    {notempty name='csses'}
+    已有的css样式表:<br>
+    {foreach $csses as $css}
+    <br>{$css.src}<a
+      href="{:url('index/blog/admin',['command'=>'delete','id'=>$css.id])}" >删除</a><br>
+    {/foreach}
+    <br>
+    {else/}
+    暂无css样式表
+    {/notempty}
+  <br>
+  {/if}
+  {else/}
+  暂无插件<br>
+
+  {/notempty}
+  <li> 网页统计插件：</li><br>
+    {notempty name='statAddon'}
+    {$statAddon.behavior_name} :<br>
+    <form action="{:url('index/addon/update')}" method="post">
+      <lable><input name='tai' type='radio' value='enable'>启用</lable>
+      <lable><input name='tai' type='radio' value='disable'>禁用</lable>
+      <lable><input name='tai' type='radio' value='uninstall'>卸载</lable>
+      <input type='hidden' name='addon_id' value={$statAddon.id}>
+      <input type='submit' value='确认修改'><br>
+    </form>当前状态为{$statAddon.tai}<br>
+    {else/}
+    暂无
+    {/notempty}
+</ol>

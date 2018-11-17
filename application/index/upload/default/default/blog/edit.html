@@ -1,0 +1,9 @@
+{include file="../application/index/view/default/base.html"}
+<form method="post" action="{:url('index/blog/save')}">
+  标题：<h1><input type="text" name="title"> </input></h1>
+  分类：<br> <input type="radio" name="category" value="0">玩耍<br>
+  <input type="radio" name="category" value="1">编程<br>
+  <br>
+  标签：<input type="text" name="tags"><br>
+  内容：<br><textarea cols="100" rows="10" name="content"></textarea>
+  <br><input type="submit" value="提交"><br>

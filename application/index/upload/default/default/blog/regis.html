@@ -1,0 +1,10 @@
+{include file="../application/index/view/default/base.html"}
+<form action="{:url('index/blog/regis')}" method="post">
+  用户名:<br>
+  <input type="text" name="username" value="//英文 数字 下划线6-20位"></input><br>
+  <input type="password" name="password"></input><br>
+  <input type="submit" value="注册">
+</form>
+{notempty name="tai"}
+{$tai}
+{/notempty}

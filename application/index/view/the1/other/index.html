@@ -1,0 +1,15 @@
+{include file='../application/index/view/the1/base.html' /}
+
+{include file='the1/static/css/other_index.css'}
+
+其他<br>
+{notempty name='pages'}
+{foreach $pages as $page}
+<a href='{:url('index/other/index',['id'=>$page.id])}'>{$page.name}</a><br>
+{/foreach}
+{/notempty}
+
+
+<br><br><br>
+<a href="{:url('index/blog/login')}">登陆</a>
+<a href="{:url('index/blog/regis')}">注册</a>

@@ -1,0 +1,16 @@
+{include file="../application/index/view/the1/base.html" /}
+<div class='page'>
+含有标签 <b>{$tag}</b> 的文章:<br><br><br>
+{foreach $blogs as $blog}
+<div class='breblog'>
+<a class='date'>{$blog.publish_time}</a><br>
+  {foreach $blog.name as $n}
+  <a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a>
+    &nbsp; {/foreach} 
+    <div class="entry-title">
+      <a  href = "{:url('index/blog/read',['id'=>$blog.id])}" class="ti">{$blog.title}</a>
+    </div>
+ <div class='b_content'> &nbsp;&nbsp;{$blog.content|raw}</div><br>
+</div>
+ {/foreach}
+</div>

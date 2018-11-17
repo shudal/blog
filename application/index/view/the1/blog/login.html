@@ -1,0 +1,24 @@
+{include file="../application/index/view/the1/base.html" /}
+
+{notempty name="tai"}
+管理登陆:
+<br>
+<form action="" method="post">
+<p>账号:<br>
+<input type="text" name="username" value="" /></p>
+<p>密码:<br><input type="password" name="password" ></p>
+
+
+{notempty name='validator_entry'}
+<p>验证码:<br><input type="text" name="validation_input"></p> 
+{$validator_entry|raw}
+{/notempty}
+
+
+<input type="submit" value="登陆" />
+</form>
+{/notempty}
+
+{notempty name="txt"}
+{$txt}
+{/notempty}

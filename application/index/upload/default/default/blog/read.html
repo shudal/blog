@@ -1,0 +1,36 @@
+{include file="../application/index/view/default/base.html"/}
+<br><br><br>
+{notempty name="blog"}
+<h1>{$blog.title}</h1>
+---------------------------<br>
+<div>发布:{$blog.publish_time}</div><br/>
+<div>分类:{$blog.category}</div><br/>
+<div>标签：{$blog.name}</div><br/>
+<div>内容：{$blog.content}</div>
+{/notempty}
+
+<br><br><br>
+---评论分割线---<br><br><br>
+{notempty name="comments"}
+  {foreach $comments as $comment}
+  {$comment.user_name}：<i>{$comment.publish_time}</i><br>
+    <i>{$comment.content}</i><br><br>
+
+    {/foreach}{else/}
+暂无评论
+{/notempty}
+
+<br><br>
+
+{notempty name="disu"}
+{$disu} :
+<form action="{:url('index/comments/create')}" method="post">
+  <input type="hidden" name="blog_id" value="{$blog.id}">
+  <input type="hidden" name="user_name" value="{$disu}">
+  <textarea name='comments' cols="30" rows="10">//评论内容</textarea><br>
+  <input type="submit" value="提交评论"><br>
+</form>
+{else/}
+登陆后可评论
+{/notempty}
+

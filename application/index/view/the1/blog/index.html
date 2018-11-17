@@ -1,0 +1,21 @@
+{include file="../application/index/view/the1/base.html" /}
+
+{include file="the1/static/css/blog_index.css"}
+<br>
+ {notempty name='blogs'}
+ {foreach $blogs as $blog}
+ <div class='breblog'>
+   <a class='date'>{$blog.publish_time}</a><br>
+ {foreach $blog.name as $n}
+ <a href="{:url('index/blog/tags',['tag'=>$n])}" class="tag">{$n}</a>  &nbsp;
+           {/foreach}
+           <div class="entry-title"><a href =
+           "{:url('index/blog/read',['id'=>$blog.id])}"
+                         class="ti">{$blog.title}</a></div>
+           <div class='b_content'>  &nbsp;&nbsp;{$blog.content|raw} </div>
+ </div>
+                                        {/foreach}
+                                                  {else/}
+                                                  暂无文章.
+                                                  {/notempty}
+

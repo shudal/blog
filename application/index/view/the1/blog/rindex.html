@@ -1,0 +1,9 @@
+{include file="../application/index/view/the1/base.html"}
+
+{include file="the1/static/css/blog_rindex.css"}
+选择分类～<br>
+{foreach $cates as $cate}
+  <h2 class='entry-title'><a href =
+  "{:url('index/blog/index',['category_id'=>$cate.category_id])}">{$cate.name}</a></h2>
+
+{/foreach}

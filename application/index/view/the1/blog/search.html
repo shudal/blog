@@ -1,0 +1,32 @@
+{include file="../application/index/view/the1/base.html" /}
+{notempty name='cuscss'}
+{$cuscss|raw}
+{/notempty}
+<br>
+<form action="">
+搜索内容:<br>
+<input type="text" name="cont" value="{$svalue}"><br>
+<input type="submit" value="搜索">
+</form>
+
+<br><br><br>
+{notempty name="svalue"}
+&nbsp;&nbsp;<h1>"{$svalue}"的搜索结果:</h1>
+{foreach $blogs as $blog}
+<div class='breblog'>
+    <a class='date'>{$blog.publish_time}</a><br>
+       {foreach $blog.name as $n}
+           <a href="{:url('index/blog/tags',['tag'=>$n])}"
+             class="tag">{$n}</a>
+               &nbsp; {/foreach} <div  class="entry-title"><a href =
+               "{:url('index/blog/read',['id'=>$blog.id])}"
+                                          class="ti">{$blog.title}</a></div>
+                                            <div class='b_content'>
+                                               &nbsp;&nbsp;{$blog.content|raw}
+                                            </div>
+                                            </div>
+{/foreach}
+
+{else/}
+暂无搜索结果
+{/notempty}
