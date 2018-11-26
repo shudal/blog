@@ -36,6 +36,8 @@ yum -y install php72w*
 * mysql數據庫新建如demo數據庫，導入demo.sql
 * 修改config/database.php裏的數據庫名，數據庫賬戶密碼為您自己的
 * 安裝完成
+### 部署
+[部署](https://blog.csdn.net/qq_36431213/article/details/80456993#commentBox)
 ### DEMO
 见[demo](http://132.232.57.130/)
 ![pic](https://perci-1253331419.cos.ap-chengdu.myqcloud.com/tp/20181117190123.png)
