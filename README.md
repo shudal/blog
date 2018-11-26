@@ -37,6 +37,7 @@ yum -y install php72w*
 * 修改config/database.php裏的數據庫名，數據庫賬戶密碼為您自己的
 * 安裝完成
 ### 部署
+[安装nginx](https://blog.csdn.net/peterxiaoq/article/details/72864566)
 [部署](https://blog.csdn.net/qq_36431213/article/details/80456993#commentBox)
 ### DEMO
 见[demo](http://132.232.57.130/)
