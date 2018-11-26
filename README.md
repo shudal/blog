@@ -37,6 +37,7 @@ yum -y install php72w*
 * 修改config/database.php裏的數據庫名，數據庫賬戶密碼為您自己的
 * 安裝完成
 ### DEMO
+见[demo](http://132.232.57.130/)
 ![pic](https://perci-1253331419.cos.ap-chengdu.myqcloud.com/tp/20181117190123.png)
 ![pic](https://perci-1253331419.cos.ap-chengdu.myqcloud.com/tp/20181117190212.png)
 ![pic](https://perci-1253331419.cos.ap-chengdu.myqcloud.com/tp/20181117190226.png)
